@@ -1,4 +1,13 @@
 *.class
-.idea
+
 build/
+
 target/
+
+# IntellijIdea files
+
+*.iml
+
+.idea
+
+out
